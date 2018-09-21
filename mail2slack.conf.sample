@@ -1,0 +1,11 @@
+[slack]
+end_point = SLACK_HOOK_END_POINT 
+sender = MESSAGE_SENDER_NAME
+icon_url = MESSAGE_ICON
+fallback_msg = FALLBACK_MESSAGE 
+
+[mail]
+server = EMAIL_SERVER
+username = MAILBOX_USERNAME
+password = MAILBOX_PASSWORD
+folder = Inbox
